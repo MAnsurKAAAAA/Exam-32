@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Пикник на природе",
+        "template": "Сегодня я пошёл на пикник с {name}. Мы взяли {plural_noun} и {food}. Было очень {adjective}!"
+    },
+    {
+        "title": "Поход в магазин",
+        "template": "{name} пошёл в магазин купить {plural_noun} и {food}. Но {name} забыл {something} дома. Это было {adjective}!"
+    },
+    {
+        "title": "Вечеринка у друга",
+        "template": "{name} пришёл на вечеринку с {plural_noun}. Мы ели {food} и танцевали {adverb}. Все были {adjective}!"
+    },
+    {
+        "title": "Путешествие на море",
+        "template": "{name} поехал на море с {plural_noun}. Мы плавали в {place} и ели {food}. Это было {adjective}!"
+    },
+    {
+        "title": "Школьный день",
+        "template": "Сегодня {name} пришёл в школу с {plural_noun}. На уроке мы писали {plural_noun2} и ели {food}. День был очень {adjective}."
+    },
+    {
+        "title": "Вечер кино",
+        "template": "{name} пригласил {friend_name} посмотреть {movie}. Мы ели {food} и смеялись {adverb}. Это был {adjective} вечер!"
+    },
+    {
+        "title": "Поездка на автобусе",
+        "template": "{name} сел в автобус с {plural_noun}. Он увидел {something} и почувствовал себя {adjective}. Ехать было {adverb}."
+    },
+    {
+        "title": "Зоопарк",
+        "template": "{name} пошёл в зоопарк с {friend_name}. Мы видели {animal} и ели {food}. День был очень {adjective} и {adjective2}!"
+    },
+    {
+        "title": "Сюрприз для друга",
+        "template": "Я сделал сюрприз для {friend_name}. Я купил {plural_noun} и {food}. Друг был {adjective} и {adjective2}!"
+    },
+    {
+        "title": "Погода и настроение",
+        "template": "Сегодня погода была {adjective}. {name} вышел на улицу с {plural_noun} и почувствовал себя {adjective2}. Всё было {adverb}!"
+    }
+]
